@@ -504,7 +504,7 @@
 
     function getPresetTimeSlots() {
         return [
-            { number: 1, startTime: "08:00", endTime: "08:45" },
+            { number: 1, startTime: "08:00", endTime: "09:35" },
             { number: 2, startTime: "10:05", endTime: "11:40" },
             { number: 3, startTime: "12:00", endTime: "13:35" }, // 午间课
             { number: 4, startTime: "14:00", endTime: "15:35" },

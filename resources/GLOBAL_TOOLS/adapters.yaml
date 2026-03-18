@@ -9,7 +9,7 @@ adapters:
     description: "这是一个空网站，用于组件测试与演示模式"
 
   - adapter_id: "GENERAL_TOOL_02"
-    adapter_name: "适配代码测试"
+    adapter_name: "HUAT适配代码测试"
     category: "GENERAL_TOOL"
     asset_js_path: "test.js"
     import_url: ""
